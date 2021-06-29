@@ -818,7 +818,7 @@
                     <master_item/>
                 </item>
                 <item>
-                    <name>Used_memory_rss</name>
+                    <name>Used memory rss</name>
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
@@ -977,7 +977,7 @@
             </graph_items>
         </graph>
         <graph>
-            <name>Redis Last_save_time</name>
+            <name>Redis Last save time</name>
             <width>900</width>
             <height>200</height>
             <yaxismin>0.0000</yaxismin>
@@ -1121,7 +1121,7 @@
             </graph_items>
         </graph>
         <graph>
-            <name>Redis Uptime_in_seconds</name>
+            <name>Redis Uptime in seconds</name>
             <width>900</width>
             <height>200</height>
             <yaxismin>0.0000</yaxismin>
